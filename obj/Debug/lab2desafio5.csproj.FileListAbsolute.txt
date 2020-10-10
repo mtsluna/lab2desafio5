@@ -1,0 +1,7 @@
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\lab2desafio5\bin\Debug\lab2desafio5.exe.config
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\lab2desafio5\bin\Debug\lab2desafio5.exe
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\lab2desafio5\bin\Debug\lab2desafio5.pdb
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\lab2desafio5\obj\Debug\lab2desafio5.csprojAssemblyReference.cache
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\lab2desafio5\obj\Debug\lab2desafio5.csproj.CoreCompileInputs.cache
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\lab2desafio5\obj\Debug\lab2desafio5.exe
+C:\Users\MtsSk\Desktop\Lic. en Informatica y Desarrollo de Software\Laboratorio II\workspaceC#\lab2desafio5\obj\Debug\lab2desafio5.pdb
